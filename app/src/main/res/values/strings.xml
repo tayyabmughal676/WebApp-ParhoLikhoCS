@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WebApp</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="menu">Menu</string>
+    <string name="refresh">Refresh</string>
+    <string name="forward">Forward</string>
+    <string name="back">Back</string>
+
+
+    <string-array name="choice_item">
+        <item>Online</item>
+        <item>Download</item>
+    </string-array>
+
+    <string-array name="cartoonsCatergory">
+        <item>Cartoon Series Hindi Dubbed</item>
+        <item>Cartoon Series Bangla Dubbed</item>
+
+    </string-array>
+</resources>
